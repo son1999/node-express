@@ -1,0 +1,29 @@
+
+<table class="table table-bordered">
+        <h2>{{title}}</h2>
+    <a href="/products/create-form" class="btn btn-info mb-2">Add</a>
+    <thead class="thead-light">
+    <tr class="text-justify">
+        <th scope="col">id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Email</th>
+        <th scope="col">Time</th>
+        <th scope="col" class="text-center">Action</th>
+    </tr>
+    </thead>
+    <tbody class="text-justify">
+    {{#each product}}
+    <tr>
+        <th scope="row">{{this.id}}</th>
+        <td>{{this.name}}</td>
+        <td>{{this.email}}</td>
+        <td>{{this.created_at}}</td>
+        <td class="text-center">
+            <a href="/products/edit-form/{{this.id}}"><i class="far fa-edit text-success"></i></a>
+            &nbsp
+            <a href="/products/delete/{{this.id}}"><i class="fas fa-trash-alt text-danger"></i></a>
+        </td>
+    </tr>
+    {{/each}}
+    </tbody>
+</table>
