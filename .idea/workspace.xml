@@ -1,13 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f06d9c7-c91e-46ac-bc5d-85476512deff" name="Default Changelist" comment="" />
+    <list default="true" id="1f06d9c7-c91e-46ac-bc5d-85476512deff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/body-parser/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/body-parser/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/body-parser/lib/types/urlencoded.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/body-parser/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/body-parser/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/History.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/History.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/Readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/bytes/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/bytes/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/express/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/express/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/Changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/Changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-codec.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-codec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/encodings/sbcs-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/iconv-lite/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/dist/qs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/stringify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/qs/test/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/qs/test/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/raw-body/HISTORY.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/raw-body/HISTORY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/raw-body/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/raw-body/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144418481Docker.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144483362docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144633329Du lieu web2.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144731694Dayli-Report-14.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144731696Dayli-Report-15.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144731697Dayli-Report-16.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144731698Dayli-Report-17.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/upload/1576144731699Dayli-Report-18.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UpNXvemFqdKPVqk3dwS2ymW3n6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -16,8 +61,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -44,7 +90,8 @@
       <workItem from="1576049621981" duration="12743000" />
       <workItem from="1576111877632" duration="95000" />
       <workItem from="1576132110038" duration="850000" />
-      <workItem from="1576139984529" duration="4950000" />
+      <workItem from="1576139984529" duration="5766000" />
+      <workItem from="1576225218647" duration="6833000" />
     </task>
     <servers />
   </component>
@@ -56,13 +103,17 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="529" y="206" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1576052462546" />
-    <state x="277" y="59" key="SettingsEditor" timestamp="1576049815948">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1576145753807">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1576049815948" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1576058233447">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1576145753807" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1576225297843">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1576058233447" />
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1576225297843" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1576225783151">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1576225783151" />
   </component>
 </project>
